@@ -1,9 +1,12 @@
 # Homework_mapreduce
 
 Cara menjalankan Mapreduce
+
 a) Siapkan data yang akan diproses dan letakkan pada folder yang sama dengan code
     sebagai contoh gunakan file 'benda.txt'
+    
 b) Gunakan '$ cat benda.txt' untuk melihat data pada terminal
+
 c) Untuk menjalankan proses Map, gunakan '$ cat benda.txt | mapper.py'
 ![image](https://user-images.githubusercontent.com/122470555/218298122-7cc2d1b5-abb2-4ed5-8c73-bd0d11e699ab.png)
 
